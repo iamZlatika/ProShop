@@ -22,6 +22,7 @@
   "homepage": "https://github.com/iamZlatika/ProShop#readme",
   "dependencies": {
     "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
