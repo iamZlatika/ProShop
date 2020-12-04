@@ -1,6 +1,6 @@
 import mongoose from 'mongoose'
 
-const orderrSchema = mongoose.Schema({
+const orderSchema = mongoose.Schema({
   order: {
     type: mongoose.Schema.Types.ObjectId,
     required: true,
